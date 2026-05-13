@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "ORCAS CRM PRO - Zenjade Automation Technology",
   "main": "server/index.js",
-  "scripts": {
-    "start": "node server/index.js"
-  },
+"scripts": {
+  "start": "node server/index.js"
+},
   "dependencies": {
     "express": "^4.22.2"
   }
