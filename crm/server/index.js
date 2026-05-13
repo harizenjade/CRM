@@ -23,7 +23,7 @@ let users = [
     id: "USR-002",
     username: "ZAT-002",
     password: "ZATPL",
-    role: "manager",
+    role: "Manager",
     name: "Deepa Mohan",
     email: "deepa@zenjade.com",
     dept: "Operations",
