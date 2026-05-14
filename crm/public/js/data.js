@@ -42,12 +42,12 @@ const ROLES_INFO = {
 
 const SEED_USERS = [
   { id:"USR-001",username:"ZAT-001",password:"ZATPL",  role:"super_admin",    name:"Admin User",     email:"admin@zenjade.com",  dept:"Management",active:true,createdAt:"2024-01-01" },
-  { id:"USR-002",username:"ZAT-002",password:"ZATPL2", role:"manager",        name:"Deepa Mohan",    email:"deepa@zenjade.com",  dept:"Operations", active:true,createdAt:"2024-01-15" },
-  { id:"USR-003",username:"ZAT-003",password:"ZATPL3", role:"sales_executive",name:"Ravi Kumar",     email:"ravi@zenjade.com",   dept:"Sales",      active:true,createdAt:"2024-02-01" },
-  { id:"USR-004",username:"ZAT-004",password:"ZATPL4", role:"sales_executive",name:"Preethi Selvam", email:"preethi@zenjade.com",dept:"Sales",      active:true,createdAt:"2024-02-10" },
-  { id:"USR-005",username:"ZAT-005",password:"ZATPL5", role:"hr",             name:"Anitha Devi",    email:"anitha@zenjade.com", dept:"HR",         active:true,createdAt:"2024-03-01" },
-  { id:"USR-006",username:"ZAT-006",password:"ZATPL6", role:"employee",       name:"Karthik Rajan",  email:"karthik@zenjade.com",dept:"Sales",      active:true,createdAt:"2024-03-15" },
-  { id:"USR-007",username:"ZAT-007",password:"ZATPL7", role:"viewer",         name:"Viewer Account", email:"viewer@zenjade.com", dept:"General",    active:true,createdAt:"2024-04-01" },
+  { id:"USR-002",username:"ZAT-002",password:"ZATPL", role:"manager",        name:"Deepa Mohan",    email:"deepa@zenjade.com",  dept:"Operations", active:true,createdAt:"2024-01-15" },
+  { id:"USR-003",username:"ZAT-003",password:"ZATPL", role:"sales_executive",name:"Ravi Kumar",     email:"ravi@zenjade.com",   dept:"Sales",      active:true,createdAt:"2024-02-01" },
+  { id:"USR-004",username:"ZAT-004",password:"ZATPL", role:"sales_executive",name:"Preethi Selvam", email:"preethi@zenjade.com",dept:"Sales",      active:true,createdAt:"2024-02-10" },
+  { id:"USR-005",username:"ZAT-005",password:"ZATPL", role:"hr",             name:"Anitha Devi",    email:"anitha@zenjade.com", dept:"HR",         active:true,createdAt:"2024-03-01" },
+  { id:"USR-006",username:"ZAT-006",password:"ZATPL", role:"employee",       name:"Karthik Rajan",  email:"karthik@zenjade.com",dept:"Sales",      active:true,createdAt:"2024-03-15" },
+  { id:"USR-007",username:"ZAT-007",password:"ZATPL", role:"viewer",         name:"Viewer Account", email:"viewer@zenjade.com", dept:"General",    active:true,createdAt:"2024-04-01" },
 ];
 
 const NAV = [
